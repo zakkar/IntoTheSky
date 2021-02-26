@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: bb908c030d77b5b45965891bfdcb4a8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 523300159228986801
+    second: MCDE Sprites_0
+  - first:
+      213: 5987090843511427015
+    second: MCDE Sprites_1
+  - first:
+      213: -8401410215679269069
+    second: MCDE Sprites_2
+  - first:
+      213: -8164694524779311049
+    second: MCDE Sprites_3
+  - first:
+      213: -8165925515863347869
+    second: MCDE Sprites_4
+  - first:
+      213: 6225871137566687507
+    second: MCDE Sprites_5
+  - first:
+      213: -3208291966879680429
+    second: MCDE Sprites_6
+  - first:
+      213: 2100348391275239011
+    second: MCDE Sprites_7
+  - first:
+      213: -4316246174025806529
+    second: MCDE Sprites_8
+  - first:
+      213: 488367713459763827
+    second: MCDE Sprites_9
+  - first:
+      213: -4383270543857960912
+    second: MCDE Sprites_10
+  - first:
+      213: -7566753409898337986
+    second: MCDE Sprites_11
+  - first:
+      213: 8596251483618941576
+    second: MCDE Sprites_12
+  - first:
+      213: -8024768068874451768
+    second: MCDE Sprites_13
+  - first:
+      213: -471718993019059933
+    second: MCDE Sprites_14
+  - first:
+      213: -2911422467427674640
+    second: MCDE Sprites_15
+  - first:
+      213: 1824465377270594594
+    second: MCDE Sprites_16
+  - first:
+      213: 3716549746559335158
+    second: MCDE Sprites_17
+  - first:
+      213: 5296035235173295468
+    second: MCDE Sprites_18
+  - first:
+      213: -3030730780948485000
+    second: MCDE Sprites_19
+  - first:
+      213: 5246282009861880824
+    second: MCDE Sprites_20
+  - first:
+      213: 2002654942711587202
+    second: MCDE Sprites_21
+  - first:
+      213: 2030270758562467412
+    second: MCDE Sprites_22
+  - first:
+      213: -53685158212567244
+    second: MCDE Sprites_23
+  - first:
+      213: -8051435582252081987
+    second: MCDE Sprites_24
+  - first:
+      213: 8210860025554523257
+    second: MCDE Sprites_25
+  - first:
+      213: -4253165811049006273
+    second: MCDE Sprites_26
+  - first:
+      213: -8319062456968691943
+    second: MCDE Sprites_27
+  - first:
+      213: 6120429634306926265
+    second: MCDE Sprites_28
+  - first:
+      213: 6681625953107217485
+    second: MCDE Sprites_29
+  - first:
+      213: 8911428584122543466
+    second: MCDE Sprites_30
+  - first:
+      213: -4093500877129447177
+    second: MCDE Sprites_31
+  - first:
+      213: 5916156436035407487
+    second: MCDE Sprites_32
+  - first:
+      213: -7621369641470323908
+    second: MCDE Sprites_33
+  - first:
+      213: -1468108294552599885
+    second: MCDE Sprites_34
+  - first:
+      213: 3928122206550230872
+    second: MCDE Sprites_35
+  - first:
+      213: -8528312087151429235
+    second: MCDE Sprites_36
+  - first:
+      213: 7923731714540960982
+    second: MCDE Sprites_37
+  - first:
+      213: -7989535285546891746
+    second: MCDE Sprites_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCDE Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 335
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0e75b66b661350800000000000000
+      internalID: 5987090843511427015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 333
+        width: 180
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376912ebe1386b80800000000000000
+      internalID: -8401410215679269069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 338
+        width: 180
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d3fe869d21be80800000000000000
+      internalID: -8164694524779311049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 246
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36daaac120eccae80800000000000000
+      internalID: -8165925515863347869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 203
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311050440dcb66650800000000000000
+      internalID: 6225871137566687507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 223
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b562547bd973d0800000000000000
+      internalID: -3208291966879680429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDE Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 302
+        width: 207
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3661686dbbfe52d10800000000000000
+      internalID: 2100348391275239011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
